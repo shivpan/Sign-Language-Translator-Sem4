@@ -1,3 +1,3 @@
 # Sign-Language-Translator Sem4
-Sign Language Translator converts sign language to text. Developed this project using TensorFlow and Keras modules of Python.
+Sign Language Translator converts sign language to text. Developed this project using TensorFlow and Keras modules of Python. Sign Language Converter is an application that converts sign language to text. Sign language is a way for dumb-deaf people to commutate. The goal of this project was to build so as to classify which letter of the American Sign Language (ASL) alphabet is being signed. This project takes hand gestures(sign language) and translate them into written and oral language. Such a translator would greatly lower the barrier for many deaf and mute individuals to be able to better communicate with others in day to day interactions.
 
